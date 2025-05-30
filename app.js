@@ -135,29 +135,6 @@
 // }
 // console.log("Palindromikmi? " + (original === reversed));
 
-
-// While10. n butun soni berilgan (n > 1). N sonini tub yoki tub emasligini aniqlovchi programma tuzilsin.
-
-// let n = 29;
-// let d = 2;
-// let isTub = true;
-
-// while (d < n) {
-//   let qoldiq = n;
-//   while (qoldiq >= d) {
-//     qoldiq = qoldiq - d;
-//   }
-//   if (qoldiq === 0) {
-//     isTub = false;
-//     break;
-//   }
-//   d = d + 1;
-// }
-// console.log(isTub);
-
-
-
-
 //                                                                 Case
 
 
